@@ -9,6 +9,8 @@ This repository contains coding practice questions from the Skilli platform alon
 - Number and Digit Manipulation
 - Digit Frequency Counting
 - Arrays and Lists
+- Dictionary
+- Data types
 - Strings
 - Sorting and Searching
 - Algorithms and Problem Solving
