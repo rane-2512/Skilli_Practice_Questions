@@ -14,6 +14,7 @@ This repository contains coding practice questions from the Skilli platform alon
 - Strings
 - Sorting and Searching
 - Algorithms and Problem Solving
+- daily challenges
 
 ## 💻 Language Used
 - Python
